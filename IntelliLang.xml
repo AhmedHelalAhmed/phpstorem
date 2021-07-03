@@ -1,0 +1,13 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="CSS" injector-id="blade">
+      <display-name>section css</display-name>
+      <place disabled="true"><![CDATA[bladeSection("css")]]></place>
+    </injection>
+    <injection language="JavaScript" injector-id="xml">
+      <display-name>*/@href</display-name>
+      <value-pattern>^javascript:(.+)</value-pattern>
+      <place disabled="true"><![CDATA[xmlAttribute().withLocalName(string().equalTo("href")).withParent(xmlTag().withNamespace(string().equalTo("http://www.w3.org/1999/xhtml")))]]></place>
+    </injection>
+  </component>
+</application>
