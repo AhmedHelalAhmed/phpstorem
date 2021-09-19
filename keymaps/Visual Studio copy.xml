@@ -1,1 +1,5 @@
-<keymap version="1" name="Visual Studio copy" parent="Visual Studio" />
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
+</keymap>
