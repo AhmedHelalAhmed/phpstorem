@@ -6,6 +6,7 @@
       <mapping pattern="ahmedhelal" type="AUTO_DETECTED" />
       <mapping pattern="فثسف" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping ext="php " type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
