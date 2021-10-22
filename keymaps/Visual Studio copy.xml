@@ -5,4 +5,7 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
 </keymap>
