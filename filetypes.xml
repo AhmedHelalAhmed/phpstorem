@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="pre-commit" type="AUTO_DETECTED" />
+      <mapping pattern="envvars" type="AUTO_DETECTED" />
+      <mapping pattern="ahmedhelal" type="AUTO_DETECTED" />
+      <mapping pattern="فثسف" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping ext="php " type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
