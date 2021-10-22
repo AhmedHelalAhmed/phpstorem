@@ -1,4 +1,11 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="RunAnything">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="ctrl alt f5" />
+    <keyboard-shortcut first-keystroke="alt numpad0" />
+  </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
