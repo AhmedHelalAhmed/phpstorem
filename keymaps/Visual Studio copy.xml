@@ -1,4 +1,14 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="EditorAddCaretPerSelectedLine">
+    <keyboard-shortcut first-keystroke="shift alt g" />
+    <keyboard-shortcut first-keystroke="shift g" />
+  </action>
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="alt numpad8" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="alt numpad2" />
+  </action>
   <action id="RunAnything">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
