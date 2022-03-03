@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="test" value="/** @test */&#10;public function $END$()&#10;{&#10;&#10;}" description="PHPUnit Test Case" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
