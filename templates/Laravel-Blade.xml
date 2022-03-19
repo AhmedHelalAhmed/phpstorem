@@ -51,4 +51,34 @@
       <option name="JSP" value="false" />
     </context>
   </template>
+  <template name="@elseif" value="@elseif ($START$)&#10;    $END$" description="Blade @elseif" toReformat="false" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSP" value="false" />
+    </context>
+  </template>
+  <template name="@if" value="@if ($START$)&#10;    $END$&#10;@endif" description="Blade @if" toReformat="false" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSP" value="false" />
+    </context>
+  </template>
+  <template name="@ifelse" value="@if ($START$)&#10;    $END$&#10;@else&#10;    &#10;@endif" description="Blade @ifelse" toReformat="false" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSP" value="false" />
+    </context>
+  </template>
+  <template name="@while" value="@while ($START$)&#10;    $END$&#10;@endwhile" description="Blade @while" toReformat="false" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSP" value="false" />
+    </context>
+  </template>
+  <template name="@unless" value="@unless ($START$)&#10;    $END$&#10;@endunless" description="Blade @unless" toReformat="false" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSP" value="false" />
+    </context>
+  </template>
 </templateSet>
