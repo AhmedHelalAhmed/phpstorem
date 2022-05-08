@@ -9,7 +9,6 @@
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="RunClass">
-    <keyboard-shortcut first-keystroke="ctrl alt f5" />
     <keyboard-shortcut first-keystroke="alt numpad0" />
   </action>
   <action id="SelectInProjectView">
