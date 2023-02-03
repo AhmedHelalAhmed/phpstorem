@@ -1,8 +1,16 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font"
+  }
+}]]></component>
+      <component name="WindowStateProjectService">
+        <state x="136" y="254" width="1016" height="737" key="SettingsEditor" timestamp="1675382730145">
+          <screen x="74" y="27" width="1974" height="1125" />
+        </state>
+        <state x="136" y="254" width="1016" height="737" key="SettingsEditor/74.27.1974.1125/2048.0.1360.768" timestamp="1675382730145" />
       </component>
     </defaultProject>
   </component>
