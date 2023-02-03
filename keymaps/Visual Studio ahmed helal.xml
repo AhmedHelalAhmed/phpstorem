@@ -1,4 +1,4 @@
-<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+<keymap version="1" name="Visual Studio ahmed helal" parent="Visual Studio">
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="alt numpad8" />
   </action>
