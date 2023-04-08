@@ -5,7 +5,6 @@
       <mapping pattern="envvars" type="AUTO_DETECTED" />
       <mapping pattern="ahmedhelal" type="AUTO_DETECTED" />
       <mapping pattern="فثسف" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="php " type="PLAIN_TEXT" />
       <removed_mapping pattern=".dockerignore" approved="true" type="DockerIgnore file" />
